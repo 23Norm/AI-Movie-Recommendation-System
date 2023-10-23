@@ -27,7 +27,7 @@ const newCard = movieObject => {
                         Rate it yourself? <button class="btn1" id="rbtn">Rate</button>
                     </div>
                 </div>
-                <input class="Uinput" placeholder="Leave a comment..."></input>       
+                    
             </div>
         </div> 
         `
