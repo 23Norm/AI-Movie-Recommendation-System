@@ -11,6 +11,7 @@ const Movies = [
 ];
 
 const newCard = movieObject => {
+    console.log(newCard)
     
     return `
         <div class="PostCard" id="${[movieObject.Title, "card"].join("-")}">
